@@ -51,7 +51,7 @@
 
 
 ### Name:SHARMA R
-### Register Number:24900539
+### Register Number:212224230261
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
